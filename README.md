@@ -6,7 +6,6 @@
 
 **ZeroWasteMart** is an eco-friendly e-commerce web application designed to promote **sustainable shopping**.  
 Users can **shop, sell, and donate** items while reducing waste and encouraging product reuse.
-
 ---
 ## 🚀 Features
 
