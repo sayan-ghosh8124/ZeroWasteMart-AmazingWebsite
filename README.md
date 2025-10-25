@@ -8,7 +8,6 @@
 Users can **shop, sell, and donate** items while reducing waste and encouraging product reuse.
 
 ---
-
 ## 🚀 Features
 
 ### 🛒 User Interface
